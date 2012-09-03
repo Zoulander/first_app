@@ -15,7 +15,6 @@
 /tmp
 
 # from the tutorial
-Gemfile.lock
 doc/api 
 doc/app 
 *.swp 
